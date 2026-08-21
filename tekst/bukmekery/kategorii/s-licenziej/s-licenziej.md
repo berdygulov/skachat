@@ -29,7 +29,7 @@
 
 **Ключи, использованные в тексте:**
 
-Частотность и KD проверены в Ahrefs (гео: `uz`) — выгрузка: [google_uz_букмекерские-конторы-букмекерс_overview](https://docs.google.com/spreadsheets/d/1xlvG09Tpi7-vzisL9gKU6xFFPp7RXaIiFAUFV5J4_UU/edit?usp=sharing). У всех проверенных ключей объём — 10 (среднее за 6 месяцев, гео `uz`) — ожидаемо для точных длиннохвостых фраз на узком рынке.
+Частотность и KD проверены в Ahrefs (гео: `uz`) — выгрузка: [google_uz_букмекерские-конторы-букмекерс_overview](https://docs.google.com/spreadsheets/d/1xlvG09Tpi7-vzisL9gKU6xFFPp7RXaIiFAUFV5J4_UU/edit?usp=sharing). У всех проверенных ключей объём — 10 (среднее за 12 месяцев, гео `uz`) — ожидаемо для точных длиннохвостых фраз на узком рынке.
 
 | Ключ / фраза | KD | Parent Keyword | Где использован |
 |---|---|---|---|
@@ -41,7 +41,7 @@
 | НАПП, Curaçao Gaming Authority (CGA) | — (LSI) | блок 1, мини-FAQ, блок 4 |
 | офшорная лицензия, статус лицензии, отозванная лицензия | — (LSI) | блок 1, мини-FAQ |
 | cert.cga.cw | — (LSI) | мини-FAQ |
-| Olimpbet, Aurum Vale | — (LSI) | мини-FAQ |
+| Olimpbet, Aurum Vale | — (LSI) | блок 1, мини-FAQ |
 
 ---
 
