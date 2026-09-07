@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1aYW-tDjiKOK6E1hXhY_V9PTrxXf1xvCkfevjofB6iZY](https://docs.google.com/spreadsheets/d/1aYW-tDjiKOK6E1hXhY_V9PTrxXf1xvCkfevjofB6iZY/edit?usp=sharing)
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `bonusy-1xbet.md`.
-
 ## Основные (head)
 
 | Ключ | KD | Объём |

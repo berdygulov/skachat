@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1K_NAfVpblozb7u3APp3_d2Y5EYy_FqQ_wkVk3UUtrQE](https://docs.google.com/spreadsheets/d/1K_NAfVpblozb7u3APp3_d2Y5EYy_FqQ_wkVk3UUtrQE/edit?usp=sharing) — единая выгрузка на все 4 дочерние страницы бренда.
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `otzyvy-888starz.md`.
-
 *Как и `/bukmekery/1xbet/otzyvy/` и `/bukmekery/1win/otzyvy/` — это в первую очередь UGC-движок, не keyword-текст. Реальные отзывы не пишутся и не имитируются координатором.*
 
 ## Основные (head)

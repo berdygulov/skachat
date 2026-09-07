@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1MX9YI8-Q9INEHI52TzkqDdzcUzskkFAFT7z_mT9XXF4](https://docs.google.com/spreadsheets/d/1MX9YI8-Q9INEHI52TzkqDdzcUzskkFAFT7z_mT9XXF4/edit?usp=sharing)
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `bukmeker-1win.md`. 
-
 ## Основные (head)
 
 | Ключ | KD | Объём | Где использован |

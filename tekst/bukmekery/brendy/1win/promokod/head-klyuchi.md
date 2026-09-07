@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1_ti75p4JAXQiHwQ1KJIiXQs0GgbhXyajdQNkS5dhPZg](https://docs.google.com/spreadsheets/d/1_ti75p4JAXQiHwQ1KJIiXQs0GgbhXyajdQNkS5dhPZg/edit?usp=sharing)
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `promokod-1win.md`.
-
 ## Основные (head)
 
 | Ключ | KD | Объём | Global volume | Где использован |

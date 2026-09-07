@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [11Emnsn5OlC9_tXNfGi35tV_T_5UwfkYKyRhROYfxOMY](https://docs.google.com/spreadsheets/d/11Emnsn5OlC9_tXNfGi35tV_T_5UwfkYKyRhROYfxOMY/edit?usp=sharing)
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `otzyvy-1xbet.md`.
-
 *Как и `/bukmekery/1win/otzyvy/` — это в первую очередь UGC-движок, не keyword-текст: реальные отзывы пишут пользователи, а не координатор.*
 
 ## Основные (head)

@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1K_NAfVpblozb7u3APp3_d2Y5EYy_FqQ_wkVk3UUtrQE](https://docs.google.com/spreadsheets/d/1K_NAfVpblozb7u3APp3_d2Y5EYy_FqQ_wkVk3UUtrQE/edit?usp=sharing) — единая выгрузка на все 4 дочерние страницы бренда.
 
-Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `bonusy-888starz.md`.
-
 ## Основные (head)
 
 | Ключ | KD | Объём | Global volume | Где использован |

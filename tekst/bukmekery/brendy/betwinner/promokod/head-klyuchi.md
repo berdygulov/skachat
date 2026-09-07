@@ -2,8 +2,6 @@
 
 Проверено в Ahrefs (гео: `uz`). Данные по частотности: [19Iact7H-NU7h8iOtT9fEI3ZCcB4x0jYIuXazcULziUY](https://docs.google.com/spreadsheets/d/19Iact7H-NU7h8iOtT9fEI3ZCcB4x0jYIuXazcULziUY/edit?usp=sharing)
 
-Финальный проверенный список — кандидат подтверждён, шаг 4 (текст) ещё предстоит.
-
 **Методологическая оговорка (шаг 2):** та же, что и в `head-klyuchi.md` карточки бренда.
 
 ## Основные (head)
