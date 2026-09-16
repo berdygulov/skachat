@@ -1,6 +1,6 @@
 # Ключи для `/bonusy-i-promokody/`
 
-Проверено в Ahrefs (гео: `uz`). Данные по частотности: [17TzJkutlGlMLjW36HEaLnAv9b6TM4Em2JTqbZZZ2L7M](https://docs.google.com/spreadsheets/d/17TzJkutlGlMLjW36HEaLnAv9b6TM4Em2JTqbZZZ2L7M/edit?usp=sharing)
+Проверено в Ahrefs (гео: `uz`). Данные по частотности: [1Ux5CI-gAs-zVh1-0itHjQ-mcuTuNvrPzfJz3urs85t8](https://docs.google.com/spreadsheets/d/1Ux5CI-gAs-zVh1-0itHjQ-mcuTuNvrPzfJz3urs85t8/edit?usp=sharing)
 
 Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `bonusy-i-promokody.md`.
 

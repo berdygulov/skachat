@@ -1,6 +1,6 @@
 # Ключи для `/bonusy-i-promokody/fribety/`
 
-Проверено в Ahrefs (гео: `uz`). Данные по частотности: [13E8PGQ8cukwDyxassDKINyHIdhrBX8WECddoiakLK54](https://docs.google.com/spreadsheets/d/13E8PGQ8cukwDyxassDKINyHIdhrBX8WECddoiakLK54/edit?usp=sharing) (головной ключ), [17TzJkutlGlMLjW36HEaLnAv9b6TM4Em2JTqbZZZ2L7M](https://docs.google.com/spreadsheets/d/17TzJkutlGlMLjW36HEaLnAv9b6TM4Em2JTqbZZZ2L7M/edit?usp=sharing) (уточняющие)
+Проверено в Ahrefs (гео: `uz`). Данные по частотности: [13E8PGQ8cukwDyxassDKINyHIdhrBX8WECddoiakLK54](https://docs.google.com/spreadsheets/d/13E8PGQ8cukwDyxassDKINyHIdhrBX8WECddoiakLK54/edit?usp=sharing) (головной ключ), [1Ux5CI-gAs-zVh1-0itHjQ-mcuTuNvrPzfJz3urs85t8](https://docs.google.com/spreadsheets/d/1Ux5CI-gAs-zVh1-0itHjQ-mcuTuNvrPzfJz3urs85t8/edit?usp=sharing) (уточняющие)
 
 Финальный проверенный список — кандидаты подтверждены, шаг 4 выполнен: готовый текст в `fribety.md`.
 
