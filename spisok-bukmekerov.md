@@ -20,7 +20,7 @@
 | 10 | Pin Up | `pin-up` | `tekst/bukmekery/brendy/pin-up/bukmeker-pin-up.md` |
 | 11 | Xparibet | `xparibet` | `tekst/bukmekery/brendy/xparibet/bukmeker-xparibet.md` |
 
-У каждого бренда из списка выше также созданы подпапки-заглушки под остальные его страницы (пока без текста, кроме карточки): `skachat/`, `bonusy/`, `promokod/`, `otzyvy/`.
+У каждого бренда из списка выше также есть подпапки под остальные его страницы — `skachat/`, `bonusy/`, `promokod/`, `otzyvy/` — и во всех 11 брендах эти страницы уже содержат готовый текст, не заглушки.
 
 ## Упомянуты в тексте, но НЕ входят в каталог сайта (нет своей карточки)
 
